@@ -12,13 +12,13 @@ This repo contains finished projects from my Production I class at Champlain Col
   
 ## GDNPD
   * A tense and deep turn-based strategy game that forces players to balance limited information
-  * Created using Unity Engine, Visual Studio C#
+  * Created using Unity Engine, Visual Studio 2019, C#
   * Implemented A Star Pathfinding, turn system, grid system, Unity editor scripts, and UI elements
   * Wrote technical documentation detailing risk and reasoning for development
   * Team size: 9,  Programmer
 
 ## O'Dam
   * Strategic two player turn based game where players compete for the most gold
-  * Created using Unity Engine, Visual Studio, and C#
+  * Created using Unity Engine, Visual Studio 2019, and C#
   * Implemented A Star Pathfinding, turn system, grid system, and game loop
   * Team size : 6 ,  Programmer
