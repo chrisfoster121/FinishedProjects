@@ -1,7 +1,8 @@
 # About
 
 This repo contains finished projects from my Production I class at Champlain College. Production I provides students with a chance to practice working on small teams covering the art, programming, design, and production management disciplines. On each project I was one of the lead programmers on the project. 
-
+ 
+ 
 
 # Projects
 
