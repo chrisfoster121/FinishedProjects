@@ -21,3 +21,12 @@ This repo contains finished projects from my Production I class at Champlain Col
   * Created using Unity Engine, Visual Studio 2019, and C#
   * Implemented A Star Pathfinding, turn system, grid system, and game loop
   * Team size : 6 ,  Programmer
+
+## Ubisoft Game Lab Competition project: Escape From the Bodysnatcher
+  * Isometric asymetric party game where players try to escape an escaped monster in a laabratory  
+  * Created using Unreal 4.26 source code & Visual Studio 2019
+  * Dedicated server and client builds
+  * Team size: 8, Programmer
+  * https://github.com/iXiphos/UbisoftCompetition.git
+  * 
+  
