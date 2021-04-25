@@ -28,5 +28,5 @@ This repo contains finished projects from my Production I class at Champlain Col
   * Dedicated server and client builds
   * Team size: 8, Programmer
   * https://github.com/iXiphos/UbisoftCompetition.git
-  *
+  
   
