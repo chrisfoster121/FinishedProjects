@@ -1,7 +1,3 @@
-# About
-
-This repo contains finished projects from my Production I class at Champlain College. Production I provides students with a chance to practice working on small teams covering the art, programming, design, and production management disciplines. On each project I was one of the lead programmers on the project. 
- 
 # Projects
 
 ## B.R.U.C.E.
@@ -22,11 +18,16 @@ This repo contains finished projects from my Production I class at Champlain Col
   * Implemented A Star Pathfinding, turn system, grid system, and game loop
   * Team size : 6 ,  Programmer
 
-## Ubisoft Game Lab Competition project: Escape From the Bodysnatcher
-  * Isometric asymetric party game where players try to escape an escaped monster in a laabratory  
+## Ubisoft Game Lab Competition 2021: Escape From the Bodysnatcher
+  * Isometric asymetric party game where players try to escape an escaped monster in a labratory  
   * Created using Unreal 4.26 source code & Visual Studio 2019
   * Dedicated server and client builds
   * Team size: 8, Programmer
-  * https://github.com/iXiphos/UbisoftCompetition.git
+  * Nominated for Best Game Design
+  * Demo video: https://youtu.be/NOqbkJuiVwM
+  * Repository: https://github.com/iXiphos/UbisoftCompetition.git
+
+
+
   
   
