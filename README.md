@@ -1,5 +1,4 @@
 # Projects
-
 This repository holds all of my finished builds from production classes at Champlain College as well as one game jam.
 
 ## Ubisoft Game Lab Competition 2021: Escape From the Bodysnatcher
