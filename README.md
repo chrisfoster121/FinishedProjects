@@ -21,7 +21,7 @@ This repository holds all of my finished builds from production classes at Champ
   * Created using Unity Engine, Visual Studio, and C#
   * Team size: 4,  Programmer
   
-## GDNPD
+## God Does Not Play Dice
   * A tense and deep turn-based strategy game that forces players to balance limited information
   * Created using Unity Engine, Visual Studio 2019, C#
   * Implemented A Star Pathfinding, turn system, grid system, Unity editor scripts, and UI elements
