@@ -1,5 +1,15 @@
 # Projects
 
+
+## Ubisoft Game Lab Competition 2021: Escape From the Bodysnatcher
+  * Isometric asymetric party game where players try to escape an escaped monster in a labratory  
+  * Created using Unreal 4.26 source code & Visual Studio 2019
+  * Dedicated server and client builds
+  * Team size: 8, Programmer
+  * Nominated for Best Game Design
+  * Demo video: https://youtu.be/NOqbkJuiVwM
+  * Repository: https://github.com/iXiphos/UbisoftCompetition.git
+
 ## B.R.U.C.E.
   * A small game intended to be an educational suplement to therapy in order to help teach coping mechanisms. 
   * Created using Unity Engine, Visual Studio, and C#
@@ -17,16 +27,6 @@
   * Created using Unity Engine, Visual Studio 2019, and C#
   * Implemented A Star Pathfinding, turn system, grid system, and game loop
   * Team size : 6 ,  Programmer
-
-## Ubisoft Game Lab Competition 2021: Escape From the Bodysnatcher
-  * Isometric asymetric party game where players try to escape an escaped monster in a labratory  
-  * Created using Unreal 4.26 source code & Visual Studio 2019
-  * Dedicated server and client builds
-  * Team size: 8, Programmer
-  * Nominated for Best Game Design
-  * Demo video: https://youtu.be/NOqbkJuiVwM
-  * Repository: https://github.com/iXiphos/UbisoftCompetition.git
-
 
 
   
